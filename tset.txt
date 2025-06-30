@@ -1,1 +1,3 @@
 Updated the initial text
+
+Updatd once more now that write perms work properly
